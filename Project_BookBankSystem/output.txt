@@ -1,0 +1,255 @@
+*** Welcome to Book Bank System ***
+
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-0-08-096632-8 Title: Aerodynamics_for_Engineering_Students
+Author: E.L.Houghton,P.W.Carpenter Version: 6 Number of available Copies: 3 Issue year: 2013
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-0-08-096905-3 Title: Aircraft_Structures_for_Engineering_Students
+Author: T.H.G.Megson Version: 5 Number of available Copies: 2 Issue year: 2012
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-1-4557-2599-1 Title: American_Criminal_Courts
+Author: Casey_Welch,John_Randolph_Fuller Version: 1 Number of available Copies: 1 Issue year: 2014
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-0-12-372581-3 Title: Animal_Behavior
+Author: Michael_Breed,Janice_Moore Version: 4 Number of available Copies: 5 Issue year: 2012
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-0-12-059485-6 Title: Applied_Groundwater_Modeling
+Author: Mary_Anderson,William_Woessner Version: 3 Number of available Copies: 1 Issue year: 1991
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-0-12-370638-6 Title: The_Art_and_Science_of_Digital_Compositing
+Author: Morgan_Kaufmann Version: 2 Number of available Copies: 4 Issue year: 2008
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-1-55860-467-4 Title: Artificial_Intelligence:A_New_Synthesis
+Author: Morgan_Kaufmann Version: 5 Number of available Copies: 3 Issue year: 1998
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-0-12-732951-2 Title: Atmospheric_Science
+Author: John_M.Wallace,Peter_V.Hobbs Version: 2 Number of available Copies: 4 Issue year: 2006
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-0-12-373975-9 Title: Basic_Medical_Endocrinology
+Author: H.Maurice_Goodman Version: 4 Number of available Copies: 3 Issue year: 2009
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-0-12-374947-5 Title: Basic_Neurochemistry
+Author: Scott_T.Brady Version: 8 Number of available Copies: 2 Issue year: 2012
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-0-443-10281-3 Title: Basic_Science_in_Obstetrics_and_Gynaecology
+Author: Phillip_Bennett,Catherine_Williamson Version: 4 Number of available Copies: 7 Issue year: 2010
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-1-848-82935-0 Title: Computer_Vision:Algorithms_and_Applications
+Author: Richard_Szeliski Version: 1 Number of available Copies: 3 Issue year: 2010
+***************************************
+COMMAND: Add_Book
+Success: 
+Isbn: 978-1-439-08131-0 Title: Introduction_to_Computers
+Author: Shelly,G.B. Version: 1 Number of available Copies: 2 Issue year: 2010
+***************************************
+COMMAND: Add_Tape
+Success:  Title: A_Brief,Wondrous_Tour_of_Earth_(From_Outer_Space) Year: 2011
+
+***************************************
+COMMAND: Add_Tape
+Success:  Title: The_Soundtrack_of_the_Universe Year: 2010
+
+***************************************
+COMMAND: Add_Tape
+Success:  Title: The_Wisdom_of_Carl_Sagan_Animated Year: 2012
+
+***************************************
+COMMAND: Add_Tape
+Success:  Title: What_a_Hurricane_Looks_Like_From_Outer_Space Year: 2007
+
+***************************************
+COMMAND: Add_Tape
+Success:  Title: What_Does_47_Billion_Light_Years_(in_Radius)_Look_Like? Year: 2013
+
+***************************************
+COMMAND: Add_Article
+Success: Title: Einsteins_Elevator_in_Cosmology
+Author: Rainer_Burghardt Journal Name: Journal_of_Modern_Physics
+Pages: 2347-2356 Volume 7
+
+***************************************
+COMMAND: Add_Article
+Success: Title: Parallelization_of_a_finite_element_Fortran_code_using_OpenMP_library
+Author: Seong_Eun_Oh,Jung-Wuk_Hong Journal Name: Advances_in_Engineering_Software
+Pages: 28-37 Volume 109
+
+***************************************
+COMMAND: Add_Article
+Success: Title: A_new_boundary_meshfree_method_for_potential_problems
+Author: Fang-Ling_Sun,Yao-Ming_Zhang Journal Name: Advances_in_Engineering_Software
+Pages: 32-42 Volume 100
+
+***************************************
+COMMAND: Add_Article
+Success: Title: Effect_of_notch_position_on_creep_damage_for_brazed_joint
+Author: Wenchun_Jiang,Qian_Zhang Journal Name: Advances_in_Engineering_Software
+Pages: 72-81 Volume 111
+
+***************************************
+COMMAND: Add_Article
+Success: Title: Optimization_of_Multi-branch_Truss-Z_based_on_evolution_strategy
+Author: Machi_Zawidzki Journal Name: Advances_in_Engineering_Software
+Pages: 113-125 Volume 119
+
+***************************************
+COMMAND: Add_Article
+Success: Title: Does_GW_Generation_Have_Semi-Classical_Features?
+Author: Andrew_Walcott_Beckwith Journal Name: Journal_of_High_Energy_Physics
+Pages: 46-61 Volume 3
+
+***************************************
+COMMAND: Add_Article
+Success: Title: From_the_Oscillating_Universe_to_Relativistic_Energy
+Author: Carmine_Cataldo Journal Name: Journal_of_High_Energy_Physics
+Pages: 68-77 Volume 3
+
+***************************************
+COMMAND: Add_borrower_Student
+Aerodynamics_for_Engineering_Students book is found! The remaining number of Copies 2
+Success: Name: Ahmad_Ali with id 1028666 borrowed Aerodynamics_for_Engineering_Students
+
+***************************************
+COMMAND: Add_borrower_Student
+Aerodynamics_for_Engineering_Students book is found! The remaining number of Copies 1
+Success: Name: Mona_Majed with id 1008666 borrowed Aerodynamics_for_Engineering_Students
+
+***************************************
+COMMAND: Add_borrower_Student
+Aerodynamics_for_Engineering_Students book is found! The remaining number of Copies 0
+Success: Name: Ahmad_Adnan with id 1000666 borrowed Aerodynamics_for_Engineering_Students
+
+***************************************
+COMMAND: Add_borrower_Student
+Does_GW_Generation_Have_Semi-Classical_Features? Article is found!
+Success: Name: Ali_Mohamad with id 1028006 borrowed Does_GW_Generation_Have_Semi-Classical_Features?
+
+***************************************
+COMMAND: Add_borrower_Student
+From_the_Oscillating_Universe_to_Relativistic_Energy Article is found!
+Success: Name: Rafa_Omar with id 1000660 borrowed From_the_Oscillating_Universe_to_Relativistic_Energy
+
+***************************************
+COMMAND: Add_borrower_Student
+Error: Aerodynamics_for_Engineering_Students is Not avaliable!
+
+***************************************
+COMMAND: Check_Item_Status
+Error: Aerodynamics_for_Engineering_Students book is Not found! No more availabe Copies!
+This item  was borrowed by Ahmad_Ali, Mona_Majed, Ahmad_Adnan
+
+***************************************
+COMMAND: Check_Item_Status
+Error: Does_GW_Generation_Have_Semi-Classical_Features? Article is Borrowed!
+This item  was borrowed by Ali_Mohamad
+
+***************************************
+COMMAND: Return_Item:
+Mona_Majed returned Aerodynamics_for_Engineering_Students
+
+***************************************
+COMMAND: Return_Item:
+Ahmad_Adnan returned Aerodynamics_for_Engineering_Students
+
+***************************************
+COMMAND: Add_Borrower_Staff
+Animal_Behavior book is found! The remaining number of Copies 4
+Success: Name: Ziad_Malek with id 1276187 borrowed Animal_Behavior
+
+***************************************
+COMMAND: Add_Borrower_Staff
+Error: Aerodynamics_for_Engineering_Students is Not avaliable!
+
+***************************************
+COMMAND: Add_Borrower_Staff
+American_Criminal_Courts book is found! The remaining number of Copies 0
+Success: Name: Sameer_Omar with id 1396451 borrowed American_Criminal_Courts
+
+***************************************
+COMMAND: Add_Borrower_Staff
+Error: Aerodynamics_for_Engineering_Students is Not avaliable!
+
+***************************************
+COMMAND: Add_Borrower_Staff
+What_a_Hurricane_Looks_Like_From_Outer_Space tape is found!
+Success: Name: Hadeel_Kaleel with id 1224432 borrowed What_a_Hurricane_Looks_Like_From_Outer_Space
+
+***************************************
+COMMAND: Add_Borrower_Staff
+Introduction_to_Computers book is found! The remaining number of Copies 1
+Success: Name: Omar_khaled with id 1234452 borrowed Introduction_to_Computers
+
+***************************************
+COMMAND: Add_Borrower_Staff
+Error: Does_GW_Generation_Have_Semi-Classical_Features? is Not avaliable!
+
+***************************************
+COMMAND: Check_Item_Status
+Error: Aerodynamics_for_Engineering_Students book is Not found! No more availabe Copies!
+This item  was borrowed by Ahmad_Ali, Mona_Majed, Ahmad_Adnan
+
+***************************************
+COMMAND: Check_Item_Status
+Success: Animal_Behavior book is found! The remaining number of Copies 4
+This item  was borrowed by Ziad_Malek
+
+***************************************
+COMMAND: Check_Item_Status
+Success: Introduction_to_Computers book is found! The remaining number of Copies 1
+This item  was borrowed by Omar_khaled
+
+***************************************
+COMMAND: Check_Item_Status
+
+bookbank.MaterialNotFoundException
+***************************************
+COMMAND: Return_Item:
+Rafa_Omar returned From_the_Oscillating_Universe_to_Relativistic_Energy
+
+***************************************
+COMMAND: Return_Item:
+Ziad_Malek returned Animal_Behavior
+
+***************************************
+COMMAND: Return_Item:
+Omar_khaled returned Introduction_to_Computers
+
+***************************************
+COMMAND: Return_Item:
+Ali_Mohamad returned Does_GW_Generation_Have_Semi-Classical_Features?
+
+***************************************
+COMMAND: Return_Item:
+Ahmad_Ali returned Aerodynamics_for_Engineering_Students
+
+***************************************
+COMMAND: Return_Item:
+Hadeel_Kaleel returned What_a_Hurricane_Looks_Like_From_Outer_Space
+
+***************************************
+COMMAND: Check_Item_Status
+Success: What_a_Hurricane_Looks_Like_From_Outer_Space Tape is found!
+

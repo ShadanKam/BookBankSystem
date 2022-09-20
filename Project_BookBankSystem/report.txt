@@ -1,0 +1,228 @@
+***************************************
+COMMAND: Display_Available_Books
+Isbn: 978-0-08-096632-8 Title: Aerodynamics_for_Engineering_Students
+Author: E.L.Houghton,P.W.Carpenter Version: 6 Number of available Copies: 3 Issue year: 2013
+
+-------------------
+Isbn: 978-0-08-096905-3 Title: Aircraft_Structures_for_Engineering_Students
+Author: T.H.G.Megson Version: 5 Number of available Copies: 2 Issue year: 2012
+
+-------------------
+Isbn: 978-1-4557-2599-1 Title: American_Criminal_Courts
+Author: Casey_Welch,John_Randolph_Fuller Version: 1 Number of available Copies: 1 Issue year: 2014
+
+-------------------
+Isbn: 978-0-12-372581-3 Title: Animal_Behavior
+Author: Michael_Breed,Janice_Moore Version: 4 Number of available Copies: 5 Issue year: 2012
+
+-------------------
+Isbn: 978-0-12-059485-6 Title: Applied_Groundwater_Modeling
+Author: Mary_Anderson,William_Woessner Version: 3 Number of available Copies: 1 Issue year: 1991
+
+-------------------
+Isbn: 978-1-55860-467-4 Title: Artificial_Intelligence:A_New_Synthesis
+Author: Morgan_Kaufmann Version: 5 Number of available Copies: 3 Issue year: 1998
+
+-------------------
+Isbn: 978-0-12-732951-2 Title: Atmospheric_Science
+Author: John_M.Wallace,Peter_V.Hobbs Version: 2 Number of available Copies: 4 Issue year: 2006
+
+-------------------
+Isbn: 978-0-12-373975-9 Title: Basic_Medical_Endocrinology
+Author: H.Maurice_Goodman Version: 4 Number of available Copies: 3 Issue year: 2009
+
+-------------------
+Isbn: 978-0-12-374947-5 Title: Basic_Neurochemistry
+Author: Scott_T.Brady Version: 8 Number of available Copies: 2 Issue year: 2012
+
+-------------------
+Isbn: 978-0-443-10281-3 Title: Basic_Science_in_Obstetrics_and_Gynaecology
+Author: Phillip_Bennett,Catherine_Williamson Version: 4 Number of available Copies: 7 Issue year: 2010
+
+-------------------
+Isbn: 978-1-848-82935-0 Title: Computer_Vision:Algorithms_and_Applications
+Author: Richard_Szeliski Version: 1 Number of available Copies: 3 Issue year: 2010
+
+-------------------
+Isbn: 978-1-439-08131-0 Title: Introduction_to_Computers
+Author: Shelly,G.B. Version: 1 Number of available Copies: 2 Issue year: 2010
+
+-------------------
+Isbn: 978-0-12-370638-6 Title: The_Art_and_Science_of_Digital_Compositing
+Author: Morgan_Kaufmann Version: 2 Number of available Copies: 4 Issue year: 2008
+
+-------------------
+***************************************
+COMMAND: Display_Available_Tapes
+ Title: A_Brief,Wondrous_Tour_of_Earth_(From_Outer_Space) Year: 2011
+
+-------------------
+ Title: The_Soundtrack_of_the_Universe Year: 2010
+
+-------------------
+ Title: The_Wisdom_of_Carl_Sagan_Animated Year: 2012
+
+-------------------
+ Title: What_Does_47_Billion_Light_Years_(in_Radius)_Look_Like? Year: 2013
+
+-------------------
+ Title: What_a_Hurricane_Looks_Like_From_Outer_Space Year: 2007
+
+-------------------
+***************************************
+COMMAND: Display_Available_Article
+Title: A_new_boundary_meshfree_method_for_potential_problems
+Author: Fang-Ling_Sun,Yao-Ming_Zhang Journal Name: Advances_in_Engineering_Software
+Pages: 32-42 Volume 100
+
+-------------------
+Title: Does_GW_Generation_Have_Semi-Classical_Features?
+Author: Andrew_Walcott_Beckwith Journal Name: Journal_of_High_Energy_Physics
+Pages: 46-61 Volume 3
+
+-------------------
+Title: Effect_of_notch_position_on_creep_damage_for_brazed_joint
+Author: Wenchun_Jiang,Qian_Zhang Journal Name: Advances_in_Engineering_Software
+Pages: 72-81 Volume 111
+
+-------------------
+Title: Einsteins_Elevator_in_Cosmology
+Author: Rainer_Burghardt Journal Name: Journal_of_Modern_Physics
+Pages: 2347-2356 Volume 7
+
+-------------------
+Title: From_the_Oscillating_Universe_to_Relativistic_Energy
+Author: Carmine_Cataldo Journal Name: Journal_of_High_Energy_Physics
+Pages: 68-77 Volume 3
+
+-------------------
+Title: Optimization_of_Multi-branch_Truss-Z_based_on_evolution_strategy
+Author: Machi_Zawidzki Journal Name: Advances_in_Engineering_Software
+Pages: 113-125 Volume 119
+
+-------------------
+Title: Parallelization_of_a_finite_element_Fortran_code_using_OpenMP_library
+Author: Seong_Eun_Oh,Jung-Wuk_Hong Journal Name: Advances_in_Engineering_Software
+Pages: 28-37 Volume 109
+
+-------------------
+***************************************
+COMMAND: Display_Available_Books
+Isbn: 978-0-08-096905-3 Title: Aircraft_Structures_for_Engineering_Students
+Author: T.H.G.Megson Version: 5 Number of available Copies: 2 Issue year: 2012
+
+-------------------
+Isbn: 978-0-12-372581-3 Title: Animal_Behavior
+Author: Michael_Breed,Janice_Moore Version: 4 Number of available Copies: 4 Issue year: 2012
+
+-------------------
+Isbn: 978-0-12-059485-6 Title: Applied_Groundwater_Modeling
+Author: Mary_Anderson,William_Woessner Version: 3 Number of available Copies: 1 Issue year: 1991
+
+-------------------
+Isbn: 978-1-55860-467-4 Title: Artificial_Intelligence:A_New_Synthesis
+Author: Morgan_Kaufmann Version: 5 Number of available Copies: 3 Issue year: 1998
+
+-------------------
+Isbn: 978-0-12-732951-2 Title: Atmospheric_Science
+Author: John_M.Wallace,Peter_V.Hobbs Version: 2 Number of available Copies: 4 Issue year: 2006
+
+-------------------
+Isbn: 978-0-12-373975-9 Title: Basic_Medical_Endocrinology
+Author: H.Maurice_Goodman Version: 4 Number of available Copies: 3 Issue year: 2009
+
+-------------------
+Isbn: 978-0-12-374947-5 Title: Basic_Neurochemistry
+Author: Scott_T.Brady Version: 8 Number of available Copies: 2 Issue year: 2012
+
+-------------------
+Isbn: 978-0-443-10281-3 Title: Basic_Science_in_Obstetrics_and_Gynaecology
+Author: Phillip_Bennett,Catherine_Williamson Version: 4 Number of available Copies: 7 Issue year: 2010
+
+-------------------
+Isbn: 978-1-848-82935-0 Title: Computer_Vision:Algorithms_and_Applications
+Author: Richard_Szeliski Version: 1 Number of available Copies: 3 Issue year: 2010
+
+-------------------
+Isbn: 978-1-439-08131-0 Title: Introduction_to_Computers
+Author: Shelly,G.B. Version: 1 Number of available Copies: 1 Issue year: 2010
+
+-------------------
+Isbn: 978-0-12-370638-6 Title: The_Art_and_Science_of_Digital_Compositing
+Author: Morgan_Kaufmann Version: 2 Number of available Copies: 4 Issue year: 2008
+
+-------------------
+***************************************
+COMMAND: Display_Available_Tapes
+ Title: A_Brief,Wondrous_Tour_of_Earth_(From_Outer_Space) Year: 2011
+
+-------------------
+ Title: The_Soundtrack_of_the_Universe Year: 2010
+
+-------------------
+ Title: The_Wisdom_of_Carl_Sagan_Animated Year: 2012
+
+-------------------
+ Title: What_Does_47_Billion_Light_Years_(in_Radius)_Look_Like? Year: 2013
+
+-------------------
+***************************************
+COMMAND: Display_Available_Article
+Title: A_new_boundary_meshfree_method_for_potential_problems
+Author: Fang-Ling_Sun,Yao-Ming_Zhang Journal Name: Advances_in_Engineering_Software
+Pages: 32-42 Volume 100
+
+-------------------
+Title: Effect_of_notch_position_on_creep_damage_for_brazed_joint
+Author: Wenchun_Jiang,Qian_Zhang Journal Name: Advances_in_Engineering_Software
+Pages: 72-81 Volume 111
+
+-------------------
+Title: Einsteins_Elevator_in_Cosmology
+Author: Rainer_Burghardt Journal Name: Journal_of_Modern_Physics
+Pages: 2347-2356 Volume 7
+
+-------------------
+Title: Optimization_of_Multi-branch_Truss-Z_based_on_evolution_strategy
+Author: Machi_Zawidzki Journal Name: Advances_in_Engineering_Software
+Pages: 113-125 Volume 119
+
+-------------------
+Title: Parallelization_of_a_finite_element_Fortran_code_using_OpenMP_library
+Author: Seong_Eun_Oh,Jung-Wuk_Hong Journal Name: Advances_in_Engineering_Software
+Pages: 28-37 Volume 109
+
+-------------------
+***************************************
+COMMAND: Display_Borrowed_Books:
+Book " Aerodynamics_for_Engineering_Students "  was borrowed by Ahmad_Ali, Mona_Majed, Ahmad_Adnan
+Book " American_Criminal_Courts "  was borrowed by Sameer_Omar
+***************************************
+COMMAND: Display_Borrowed_Tapes:
+Tape " What_a_Hurricane_Looks_Like_From_Outer_Space "  was borrowed by Hadeel_Kaleel
+***************************************
+COMMAND: Display_Borrowed_Article:
+Article " Does_GW_Generation_Have_Semi-Classical_Features? "  was borrowed by Ali_Mohamad
+Article " From_the_Oscillating_Universe_to_Relativistic_Energy "  was borrowed by Rafa_Omar
+***************************************
+COMMAND: Display_Fees:
+the borrower Ahmad_Ali dose not have any fees to pay.
+the borrower Mona_Majed dose not have any fees to pay.
+Total fees for Ahmad_Adnan should pay 10.0
+the borrower Ali_Mohamad dose not have any fees to pay.
+the borrower Rafa_Omar dose not have any fees to pay.
+the borrower Ziad_Malek dose not have any fees to pay.
+the borrower Sameer_Omar dose not have any fees to pay.
+the borrower Hadeel_Kaleel dose not have any fees to pay.
+the borrower Omar_khaled dose not have any fees to pay.
+***************************************
+COMMAND: Display_Fees:
+Total fees for Ahmad_Ali should pay 5.0
+the borrower Mona_Majed dose not have any fees to pay.
+Total fees for Ahmad_Adnan should pay 10.0
+Total fees for Ali_Mohamad should pay 25.0
+Total fees for Rafa_Omar should pay 50.0
+Total fees for Ziad_Malek should pay 28.0
+the borrower Sameer_Omar dose not have any fees to pay.
+Total fees for Hadeel_Kaleel should pay 28.0
+Total fees for Omar_khaled should pay 28.0

@@ -1,0 +1,76 @@
+Add_Book 978-0-08-096632-8	Aerodynamics_for_Engineering_Students	E.L.Houghton,P.W.Carpenter 6 3 2013 
+Add_Book 978-0-08-096905-3	Aircraft_Structures_for_Engineering_Students	T.H.G.Megson 5 2 2012
+Add_Book 978-1-4557-2599-1	American_Criminal_Courts Casey_Welch,John_Randolph_Fuller 1 1 2014
+Add_Book 978-0-12-372581-3	Animal_Behavior	Michael_Breed,Janice_Moore	4 5 2012
+Add_Book 978-0-12-059485-6	Applied_Groundwater_Modeling	Mary_Anderson,William_Woessner	3 1 1991
+Add_Book 978-0-12-370638-6	The_Art_and_Science_of_Digital_Compositing		Morgan_Kaufmann 2 4 2008
+Add_Book 978-1-55860-467-4	Artificial_Intelligence:A_New_Synthesis		Morgan_Kaufmann 5 3 1998
+Add_Book 978-0-12-732951-2	Atmospheric_Science John_M.Wallace,Peter_V.Hobbs 	2 4 2006
+Add_Book 978-0-12-373975-9	Basic_Medical_Endocrinology H.Maurice_Goodman 	4 3 2009
+Add_Book 978-0-12-374947-5	Basic_Neurochemistry	Scott_T.Brady 8 2 2012	
+Add_Book 978-0-443-10281-3	Basic_Science_in_Obstetrics_and_Gynaecology  Phillip_Bennett,Catherine_Williamson 4 7 2010
+Add_Book 978-1-848-82935-0      Computer_Vision:Algorithms_and_Applications Richard_Szeliski 1 3 2010
+Add_book 978-1-439-08131-0      Introduction_to_Computers Shelly,G.B. 1 2 2010 
+Add_Tape A_Brief,Wondrous_Tour_of_Earth_(From_Outer_Space) 2011
+Add_Tape The_Soundtrack_of_the_Universe 2010 
+Add_Tape The_Wisdom_of_Carl_Sagan_Animated 2012
+Add_Tape What_a_Hurricane_Looks_Like_From_Outer_Space 2007
+Add_Tape What_Does_47_Billion_Light_Years_(in_Radius)_Look_Like? 2013
+Add_Article Einsteins_Elevator_in_Cosmology Rainer_Burghardt 7 2347-2356 Journal_of_Modern_Physics
+Add_Article Parallelization_of_a_finite_element_Fortran_code_using_OpenMP_library Seong_Eun_Oh,Jung-Wuk_Hong 109  28-37 Advances_in_Engineering_Software
+Add_Article A_new_boundary_meshfree_method_for_potential_problems Fang-Ling_Sun,Yao-Ming_Zhang 100 32-42  Advances_in_Engineering_Software
+Add_Article Effect_of_notch_position_on_creep_damage_for_brazed_joint Wenchun_Jiang,Qian_Zhang 111 72-81 Advances_in_Engineering_Software
+Add_Article Optimization_of_Multi-branch_Truss-Z_based_on_evolution_strategy Machi_Zawidzki 119 113-125 Advances_in_Engineering_Software
+Add_Article Does_GW_Generation_Have_Semi-Classical_Features? Andrew_Walcott_Beckwith 3 46-61 Journal_of_High_Energy_Physics
+Add_Article From_the_Oscillating_Universe_to_Relativistic_Energy Carmine_Cataldo 3 68-77 Journal_of_High_Energy_Physics
+Display_Available_Books
+Display_Available_Tapes
+Display_Available_Article
+Add_Borrower_Student 	  1028666 Ahmad_Ali     m   054579994 CS  Aerodynamics_for_Engineering_Students 5
+Add_Borrower_Student 	  1008666 Mona_Majed    f   050099994 CS  Aerodynamics_for_Engineering_Students 6
+Add_Borrower_Student      1000666 Ahmad_Adnan   m   054579904 CS  Aerodynamics_for_Engineering_Students 10
+Add_Borrower_Student      1028006 Ali_Mohamad   m   054579004 CS  Does_GW_Generation_Have_Semi-Classical_Features? 20
+Add_Borrower_Student      1000660 Rafa_Omar     f   054579900 CS  From_the_Oscillating_Universe_to_Relativistic_Energy 30
+Add_Borrower_Student      1324452 Huda_Morad    f   054543210 TA  Aerodynamics_for_Engineering_Students 4
+
+Check_Item_Status Aerodynamics_for_Engineering_Students 
+
+Check_Item_Status Does_GW_Generation_Have_Semi-Classical_Features?
+
+Return_Item 1008666 Aerodynamics_for_Engineering_Students 5
+
+Return_Item 1000666 Aerodynamics_for_Engineering_Students 12
+
+Add_Borrower_Staff_member 1276187 Ziad_Malek    m   054672819 TA  Animal_Behavior 3
+Add_Borrower_Staff_member 1224452 Haya_khaled   f   054543210 TA  Aerodynamics_for_Engineering_Students 4
+
+Add_Borrower_Staff_member 1396451 Sameer_Omar m 0549149000 IT American_Criminal_Courts  3
+Add_Borrower_Staff_member 1224453 Faisal_Moath  m   054986210 Dr  Aerodynamics_for_Engineering_Students 4
+Add_Borrower_Staff_member 1224432 Hadeel_Kaleel f   054545555 Pro  What_a_Hurricane_Looks_Like_From_Outer_Space 4
+Add_Borrower_Staff_member 1234452 Omar_khaled   m   054555510 TA  Introduction_to_Computers 4
+
+Add_Borrower_Staff_member 1028106 Mohamad_Naser   m   054545104 IS  Does_GW_Generation_Have_Semi-Classical_Features? 7
+
+Check_Item_Status Aerodynamics_for_Engineering_Students
+Check_Item_Status Animal_Behavior
+Check_Item_Status Introduction_to_Computers
+Display_Available_Books
+Display_Available_Tapes
+Display_Available_Article
+Display_Borrowed_Books
+Display_Borrowed_Tapes
+Display_Borrowed_Article
+Display_Fees
+Check_Item_Status Introduction_to_java 
+
+Return_Item 1000660 From_the_Oscillating_Universe_to_Relativistic_Energy 40
+
+Return_Item 1276187 Animal_Behavior 7
+Return_Item 1234452 Introduction_to_Computers 8
+Return_Item 1028006 Does_GW_Generation_Have_Semi-Classical_Features?  25
+Return_Item 1028666 Aerodynamics_for_Engineering_Students 6
+
+Return_Item 1224432 What_a_Hurricane_Looks_Like_From_Outer_Space 8
+Check_Item_Status What_a_Hurricane_Looks_Like_From_Outer_Space 	
+Display_Fees
+Quit
